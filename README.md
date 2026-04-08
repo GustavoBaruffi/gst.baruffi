@@ -2,7 +2,6 @@
 
 🎓 Software Engineering Student @ PUCPR  
 💻 Focused on Backend Development  
-📚 Currently learning Data Structures, OOP and APIs  
 
 ---
 
