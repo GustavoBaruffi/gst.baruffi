@@ -63,7 +63,7 @@ Dashboard developed to analyze **Coritiba FC's performance during the 2025 seaso
   <a href="https://github.com/GustavoBaruffi/coritiba-powerbi-dashboard">
     <img src="https://raw.githubusercontent.com/GustavoBaruffi/coritiba-powerbi-dashboard/main/imagens/dashboard-preview.jpg"
          alt="Coritiba FC Performance Dashboard"
-         width="850"/>
+         width="700"/>
   </a>
 </p>
 
