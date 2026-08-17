@@ -85,7 +85,7 @@ Dashboard developed to analyze **Coritiba FC's performance during the 2025 seaso
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GustavoBaruffi/GustavoBaruffi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/GustavoBaruffi/gst.baruffi/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
