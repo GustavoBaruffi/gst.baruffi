@@ -61,7 +61,9 @@ Dashboard developed to analyze **Coritiba FC's performance during the 2025 seaso
 
 <p align="center">
   <a href="https://github.com/GustavoBaruffi/coritiba-powerbi-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoBaruffi&repo=coritiba-powerbi-dashboard&theme=github_dark&hide_border=true"/>
+    <img src="https://raw.githubusercontent.com/GustavoBaruffi/coritiba-powerbi-dashboard/main/imagens/dashboard-preview.jpg"
+         alt="Coritiba FC Performance Dashboard"
+         width="850"/>
   </a>
 </p>
 
@@ -69,15 +71,6 @@ Dashboard developed to analyze **Coritiba FC's performance during the 2025 seaso
   <a href="https://github.com/GustavoBaruffi/coritiba-powerbi-dashboard">
     <b>🔎 View complete project</b>
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GustavoBaruffi&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBaruffi&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
